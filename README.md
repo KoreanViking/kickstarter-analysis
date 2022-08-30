@@ -1,6 +1,6 @@
 ## An Analysis For Kickstarter Campaigns
 # Project Overview: 
-The purpose of this analysis is to get an idea of how a kickstarter campaign performs based on the launch date, and based on their goal amount. Using these two we can look at trends between failed, and successful campaigns.  
+The purpose of this analysis is to get an idea of how kickstarter campaigns for Theater Plays performs based on the launch date, and based on their goal amount. Using these two we can look at trends between failed, and successful campaigns.  
 
 # Analysis and Challenges:
 To get out outcomes based on launch dates, I had to create a pivot table. On the pivot table we filtered by parent category to get Theater. From there we populated the data from the successful, failed, and canceled kickstarters and we graphed it. 
